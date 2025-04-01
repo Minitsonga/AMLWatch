@@ -1,0 +1,11 @@
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\bin\Debug\net9.0\AMLWatch.Core.deps.json
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\bin\Debug\net9.0\AMLWatch.Core.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\bin\Debug\net9.0\AMLWatch.Core.pdb
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.AssemblyInfoInputs.cache
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.AssemblyInfo.cs
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.csproj.CoreCompileInputs.cache
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\refint\AMLWatch.Core.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.pdb
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\ref\AMLWatch.Core.dll

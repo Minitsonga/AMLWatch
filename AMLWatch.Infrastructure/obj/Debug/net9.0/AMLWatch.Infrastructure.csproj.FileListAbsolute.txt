@@ -1,0 +1,17 @@
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\bin\Debug\net9.0\AMLWatch.Infrastructure.deps.json
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\bin\Debug\net9.0\AMLWatch.Infrastructure.runtimeconfig.json
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\bin\Debug\net9.0\AMLWatch.Infrastructure.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\bin\Debug\net9.0\AMLWatch.Infrastructure.pdb
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\bin\Debug\net9.0\AMLWatch.Core.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\bin\Debug\net9.0\AMLWatch.Core.pdb
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.AssemblyInfo.cs
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.2A167D56.Up2Date
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\refint\AMLWatch.Infrastructure.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.pdb
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.genruntimeconfig.cache
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\ref\AMLWatch.Infrastructure.dll

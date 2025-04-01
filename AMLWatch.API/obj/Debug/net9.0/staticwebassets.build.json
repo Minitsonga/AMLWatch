@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YVitwY5kVonDkShVDAH5q5/Irw+QLSTNfywyDx94ekE=",
+  "Source": "AMLWatch.API",
+  "BasePath": "_content/AMLWatch.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
