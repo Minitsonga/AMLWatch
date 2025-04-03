@@ -15,3 +15,4 @@ C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debu
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.pdb
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.genruntimeconfig.cache
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\ref\AMLWatch.Infrastructure.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Infrastructure\obj\Debug\net9.0\AMLWatch.Infrastructure.sourcelink.json

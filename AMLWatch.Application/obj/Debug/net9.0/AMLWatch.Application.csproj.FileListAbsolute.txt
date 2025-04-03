@@ -13,3 +13,4 @@ C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Application\obj\Debug\n
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Application\obj\Debug\net9.0\refint\AMLWatch.Application.dll
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Application\obj\Debug\net9.0\AMLWatch.Application.pdb
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Application\obj\Debug\net9.0\ref\AMLWatch.Application.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Application\obj\Debug\net9.0\AMLWatch.Application.sourcelink.json

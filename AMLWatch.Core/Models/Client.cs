@@ -9,7 +9,10 @@ public class Client
     public string LastName { get; set; }
     public string Email { get; set; }
     public string? PhoneNumber { get; set; }
-    public Adress? Address { get; set; }
+    public string? Street { get; set; }
+    public string? City { get; set; }
+    public string? ZipCode { get; set; }
+    public string? Country { get; set; }
     public RiskLevel RiskLevel { get; set; } = RiskLevel.Low;
     public DateTime DateOfRegistration { get; set; }
     public List<Transaction> Transactions { get; set; }
@@ -28,7 +31,10 @@ public class Client
         Username = username;
         PasswordHash = passwordHash;
         PhoneNumber = string.Empty;
-        Address = null;
+        Street = string.Empty;
+        City = string.Empty;
+        ZipCode = string.Empty;
+        Country = string.Empty;
         RiskLevel = RiskLevel.Low;
         Transactions = new List<Transaction>();
         DateOfRegistration = DateTime.Now;

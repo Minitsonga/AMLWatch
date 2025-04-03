@@ -20,7 +20,7 @@ public class ClientController : ControllerBase
     public ActionResult<IEnumerable<ClientDTO>> GetAll()
     {
         var clients = _context.Clients
-            .Select(c => new ClientDTO(c.Id, c.Username, c.Email, c.Address))
+            .Select(c => new ClientDTO(c.Id, c.Username, c.Email, null))
             .ToList();
 
         return Ok(clients);
@@ -35,7 +35,7 @@ public class ClientController : ControllerBase
         _context.Clients.Add(client);
         _context.SaveChanges();
 
-        var result = new ClientDTO(client.Id, client.Username, client.Email, client.Address);
+        var result = new ClientDTO(client.Id, client.Username, client.Email, null);
         return CreatedAtAction(nameof(GetAll), new { id = client.Id }, result);
     }
 }

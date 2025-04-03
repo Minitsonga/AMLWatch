@@ -9,3 +9,4 @@ C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\A
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\refint\AMLWatch.Core.dll
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.pdb
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\ref\AMLWatch.Core.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.Core\obj\Debug\net9.0\AMLWatch.Core.sourcelink.json

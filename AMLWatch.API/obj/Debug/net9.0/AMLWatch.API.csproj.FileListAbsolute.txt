@@ -53,3 +53,4 @@ C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.API\obj\Debug\net9.0\re
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.API\obj\Debug\net9.0\AMLWatch.API.pdb
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.API\obj\Debug\net9.0\AMLWatch.API.genruntimeconfig.cache
 C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.API\obj\Debug\net9.0\ref\AMLWatch.API.dll
+C:\Users\minit\Documents\Programmation\AMLWatch\AMLWatch.API\obj\Debug\net9.0\AMLWatch.API.sourcelink.json

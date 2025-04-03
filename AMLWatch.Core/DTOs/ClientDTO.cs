@@ -5,9 +5,8 @@ namespace AMLWatch.Core.DTOs
     public record ClientDTO(
         Guid Id,
         string Username,
-
         string Email,
-        Adress? Address
+        AdressDTO? Address
     );
 
 }
