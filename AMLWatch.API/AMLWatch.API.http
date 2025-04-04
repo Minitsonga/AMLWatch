@@ -1,6 +1,0 @@
-@AMLWatch.API_HostAddress = http://localhost:5152
-
-GET http://localhost:5152
-Accept: application/json
-
-###

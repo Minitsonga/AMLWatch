@@ -1,0 +1,6 @@
+@AMLWatch_HostAddress = http://localhost:5260
+
+GET {{AMLWatch_HostAddress}}/
+Accept: application/json
+
+###
