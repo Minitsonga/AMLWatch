@@ -17,11 +17,9 @@ public class ClientController : ControllerBase
     }
 
     [HttpGet]
-    public ActionResult<IEnumerable<ClientDTO>> GetAll()
+    public ActionResult<List<ClientDTO>> GetAll()
     {
-        var clients = _context.Clients
-            .Select(c => new ClientDTO(c.Id, c.Username, c.Email, null))
-            .ToList();
+        List<ClientDTO> clients = [.. _context.Clients.Select(c => new ClientDTO(c.Id, c.Username, c.Email, null))];
 
         return Ok(clients);
     }

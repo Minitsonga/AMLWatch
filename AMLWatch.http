@@ -1,6 +1,43 @@
-@AMLWatch_HostAddress = http://localhost:5260
+### Créer un nouveau client
+POST http://localhost:5260/api/client
+Content-Type: application/json
 
-GET {{AMLWatch_HostAddress}}/
-Accept: application/json
+{
+  "firstName": "Julie",
+  "lastName": "Dupont",
+  "username": "fepachier",
+  "email": "julie.dupont@example.com",
+  "passwordHash": "passwordDeJulie"
+}
 
-###
+### Obtenir tous les clients
+GET http://localhost:5260/api/client
+
+### Créer une nouvelle transaction
+POST http://localhost:5260/api/transaction
+Content-Type: application/json
+
+{
+  "clientId": 1,
+  "amount": 15260,
+  "currency": "EUR",
+  "transactionDate": "2025-04-01T10:00:00",
+  "description": "Transfer vers offshore"
+}
+
+### Obtenir toutes les transactions
+GET http://localhost:5260/api/transactions
+
+### Lancer l'analyse anti-blanchiment (hypothèse de route, à adapter si tu as autre chose)
+POST http://localhost:5260/api/aml/analyze
+Content-Type: application/json
+
+{
+  "clientId": 1
+}
+
+### Récupérer les comportements suspects
+GET http://localhost:5260/api/aml/suspicions
+
+### Supprimer un client (optionnel pour cleanup de test)
+DELETE http://localhost:5260/api/clients/1

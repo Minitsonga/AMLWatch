@@ -37,7 +37,7 @@ public class Client
         Country = string.Empty;
         RiskLevel = RiskLevel.Low;
         Transactions = new List<Transaction>();
-        DateOfRegistration = DateTime.Now;
+        DateOfRegistration = DateTime.UtcNow;
     }
 }
 
